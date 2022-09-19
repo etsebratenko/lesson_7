@@ -1,0 +1,39 @@
+* {
+  box-sizing: border-box;
+}
+
+img {
+  width: 230px;
+  height: 230px;
+  text-align: center;
+  margin: 15px;
+}
+
+.card {
+  width: 30%;
+  height: 400px;
+  background-color: rgb(254, 248, 229);
+  display: inline-block;
+  margin: 1em;
+  border: 1px solid;
+  float: left;
+}
+
+.title {
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  font-style: oblique;
+  font-size: 20px;
+  text-align: center ;
+}
+
+.description {
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  font-size: 10px;
+  text-align: center;
+  margin: 2em;
+}
+
+.content {
+  text-align: center;
+  display: inline;
+}
