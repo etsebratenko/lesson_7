@@ -10,11 +10,11 @@ img {
 }
 
 .card {
-  width: calc(100%/3 - 1em);
+  width: calc(33.3333% - 1em);
   height: 400px;
   background-color: rgb(254, 248, 229);
   display: inline-block;
-  margin: 0em 1em 1em 0em;
+  margin: 0.5em 0.5em 0.5em 0.5em;
   border: 1px solid;
   float: left;
 }
